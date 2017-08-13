@@ -2,6 +2,6 @@
 @section('title','Home')
 @section('content')
 
-	<h2>Home Page</h2>
+	<h2>News</h2>
 
 @endsection
